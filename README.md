@@ -1,1 +1,1 @@
-# kicadtutorial
+# kicad
